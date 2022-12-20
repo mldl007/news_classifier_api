@@ -1,0 +1,22 @@
+{
+  "train_test_column_count": 4,
+  "train_test_column_names": [
+    "_id",
+    "ArticleId",
+    "Text",
+    "Category"
+  ],
+  "train_test_column_dtypes": [
+    "O",
+    "int64",
+    "O",
+    "O"
+  ],
+  "prediction_column_count": 1,
+  "prediction_column_names": [
+    "Text"
+  ],
+  "prediction_column_dtypes": [
+    "O"
+  ]
+}
